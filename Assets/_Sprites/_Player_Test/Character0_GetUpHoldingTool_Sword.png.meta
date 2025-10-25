@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 4b54741dcb264274a9760d2212eb4af3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6512356178963734579
+    second: Character0_GetUpHoldingTool_Sword_0
+  - first:
+      213: 5860717262451388630
+    second: Character0_GetUpHoldingTool_Sword_1
+  - first:
+      213: -9117379571751421177
+    second: Character0_GetUpHoldingTool_Sword_2
+  - first:
+      213: 1846688688068196396
+    second: Character0_GetUpHoldingTool_Sword_3
+  - first:
+      213: 1505848579308300010
+    second: Character0_GetUpHoldingTool_Sword_4
+  - first:
+      213: -858211343254559454
+    second: Character0_GetUpHoldingTool_Sword_5
+  - first:
+      213: -5805249994553028969
+    second: Character0_GetUpHoldingTool_Sword_6
+  - first:
+      213: 191522256547086974
+    second: Character0_GetUpHoldingTool_Sword_7
+  - first:
+      213: 7577435342386364434
+    second: Character0_GetUpHoldingTool_Sword_8
+  - first:
+      213: 301301373870207323
+    second: Character0_GetUpHoldingTool_Sword_9
+  - first:
+      213: 4338289636886508183
+    second: Character0_GetUpHoldingTool_Sword_10
+  - first:
+      213: -7242396884248408966
+    second: Character0_GetUpHoldingTool_Sword_11
+  - first:
+      213: 8059296441942555000
+    second: Character0_GetUpHoldingTool_Sword_12
+  - first:
+      213: 5833990358312452168
+    second: Character0_GetUpHoldingTool_Sword_13
+  - first:
+      213: -301762821376810210
+    second: Character0_GetUpHoldingTool_Sword_14
+  - first:
+      213: -8366986265790818298
+    second: Character0_GetUpHoldingTool_Sword_15
+  - first:
+      213: 22956657438239024
+    second: Character0_GetUpHoldingTool_Sword_16
+  - first:
+      213: -2875944932021848141
+    second: Character0_GetUpHoldingTool_Sword_17
+  - first:
+      213: -618946628340880961
+    second: Character0_GetUpHoldingTool_Sword_18
+  - first:
+      213: 572405641792177592
+    second: Character0_GetUpHoldingTool_Sword_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1855
+        width: 196
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfdb062f867f95a0800000000000000
+      internalID: -6512356178963734579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1855
+        width: 219
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d03a6d7c43755150800000000000000
+      internalID: 5860717262451388630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1861
+        width: 220
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b7a5fd59f887180800000000000000
+      internalID: -9117379571751421177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1870
+        width: 212
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28790fd391c0a910800000000000000
+      internalID: 1846688688068196396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1397
+        width: 209
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6a237fd49d5e410800000000000000
+      internalID: 1505848579308300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1394
+        width: 207
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225e91f84550714f0800000000000000
+      internalID: -858211343254559454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1400
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e045233eb9f6fa0800000000000000
+      internalID: -5805249994553028969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_7
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1396
+        width: 187
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7202144a7c68a200800000000000000
+      internalID: 191522256547086974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 935
+        width: 218
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100e630c45782960800000000000000
+      internalID: 7577435342386364434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 942
+        width: 219
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51fedfc0007e2400800000000000000
+      internalID: 301301373870207323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_10
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 935
+        width: 195
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f0638073b43c30800000000000000
+      internalID: 4338289636886508183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_11
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 935
+        width: 228
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c4af7d766dd7b90800000000000000
+      internalID: -7242396884248408966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 491
+        width: 267
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8793e89f96f58df60800000000000000
+      internalID: 8059296441942555000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 491
+        width: 265
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8408442325f76f050800000000000000
+      internalID: 5833990358312452168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_14
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 478
+        width: 274
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e136a61105cefcbf0800000000000000
+      internalID: -301762821376810210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_15
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 479
+        width: 268
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60857fa425e72eb80800000000000000
+      internalID: -8366986265790818298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 41
+        width: 196
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03926d355fe815000800000000000000
+      internalID: 22956657438239024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 15
+        width: 219
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7b04d52579618d0800000000000000
+      internalID: -2875944932021848141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_18
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 21
+        width: 220
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9e0d2225f0967f0800000000000000
+      internalID: -618946628340880961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Sword_19
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 30
+        width: 212
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c37206e791f700800000000000000
+      internalID: 572405641792177592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_GetUpHoldingTool_Sword_0: -6512356178963734579
+      Character0_GetUpHoldingTool_Sword_1: 5860717262451388630
+      Character0_GetUpHoldingTool_Sword_10: 4338289636886508183
+      Character0_GetUpHoldingTool_Sword_11: -7242396884248408966
+      Character0_GetUpHoldingTool_Sword_12: 8059296441942555000
+      Character0_GetUpHoldingTool_Sword_13: 5833990358312452168
+      Character0_GetUpHoldingTool_Sword_14: -301762821376810210
+      Character0_GetUpHoldingTool_Sword_15: -8366986265790818298
+      Character0_GetUpHoldingTool_Sword_16: 22956657438239024
+      Character0_GetUpHoldingTool_Sword_17: -2875944932021848141
+      Character0_GetUpHoldingTool_Sword_18: -618946628340880961
+      Character0_GetUpHoldingTool_Sword_19: 572405641792177592
+      Character0_GetUpHoldingTool_Sword_2: -9117379571751421177
+      Character0_GetUpHoldingTool_Sword_3: 1846688688068196396
+      Character0_GetUpHoldingTool_Sword_4: 1505848579308300010
+      Character0_GetUpHoldingTool_Sword_5: -858211343254559454
+      Character0_GetUpHoldingTool_Sword_6: -5805249994553028969
+      Character0_GetUpHoldingTool_Sword_7: 191522256547086974
+      Character0_GetUpHoldingTool_Sword_8: 7577435342386364434
+      Character0_GetUpHoldingTool_Sword_9: 301301373870207323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

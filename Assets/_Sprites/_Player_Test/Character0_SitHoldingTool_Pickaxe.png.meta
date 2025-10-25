@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 28e1073d8b5eb2545a67ac5e37daf074
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3201982867343366
+    second: Character0_SitHoldingTool_Pickaxe_0
+  - first:
+      213: 6860084847705738812
+    second: Character0_SitHoldingTool_Pickaxe_1
+  - first:
+      213: 5557569063302243361
+    second: Character0_SitHoldingTool_Pickaxe_2
+  - first:
+      213: -34660138316223400
+    second: Character0_SitHoldingTool_Pickaxe_3
+  - first:
+      213: 171163989805601712
+    second: Character0_SitHoldingTool_Pickaxe_4
+  - first:
+      213: 962320777959439684
+    second: Character0_SitHoldingTool_Pickaxe_5
+  - first:
+      213: 1299587408152533647
+    second: Character0_SitHoldingTool_Pickaxe_6
+  - first:
+      213: 7169086015984499577
+    second: Character0_SitHoldingTool_Pickaxe_7
+  - first:
+      213: -2628544507363573334
+    second: Character0_SitHoldingTool_Pickaxe_8
+  - first:
+      213: 8378372741308420014
+    second: Character0_SitHoldingTool_Pickaxe_9
+  - first:
+      213: 9123397279880595367
+    second: Character0_SitHoldingTool_Pickaxe_10
+  - first:
+      213: 7250155197725758078
+    second: Character0_SitHoldingTool_Pickaxe_11
+  - first:
+      213: -1508477893896899346
+    second: Character0_SitHoldingTool_Pickaxe_12
+  - first:
+      213: -2787539681955743653
+    second: Character0_SitHoldingTool_Pickaxe_13
+  - first:
+      213: 8862068397778602997
+    second: Character0_SitHoldingTool_Pickaxe_14
+  - first:
+      213: -4858853645050793602
+    second: Character0_SitHoldingTool_Pickaxe_15
+  - first:
+      213: -822782745431167798
+    second: Character0_SitHoldingTool_Pickaxe_16
+  - first:
+      213: 95306449137725563
+    second: Character0_SitHoldingTool_Pickaxe_17
+  - first:
+      213: -4872289524879477740
+    second: Character0_SitHoldingTool_Pickaxe_18
+  - first:
+      213: 8233063469391066670
+    second: Character0_SitHoldingTool_Pickaxe_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1870
+        width: 228
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af77d9440df94fff0800000000000000
+      internalID: -3201982867343366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1870
+        width: 242
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e4a8c92dae33f50800000000000000
+      internalID: 6860084847705738812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_2
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1863
+        width: 251
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124a4d82e93702d40800000000000000
+      internalID: 5557569063302243361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_3
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1847
+        width: 212
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cabcfa9ccd48ff0800000000000000
+      internalID: -34660138316223400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1396
+        width: 194
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b393baedb8106200800000000000000
+      internalID: 171163989805601712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1396
+        width: 205
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dff3226a9da5d00800000000000000
+      internalID: 962320777959439684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_6
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1401
+        width: 208
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a9089bcdf090210800000000000000
+      internalID: 1299587408152533647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_7
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1387
+        width: 210
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bf9f28fb5bd7360800000000000000
+      internalID: 7169086015984499577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 935
+        width: 184
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa14a4a72b8858bd0800000000000000
+      internalID: -2628544507363573334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 935
+        width: 185
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf01812e95f54470800000000000000
+      internalID: 8378372741308420014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 944
+        width: 184
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a74c0cfc71dc9e70800000000000000
+      internalID: 9123397279880595367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_11
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 931
+        width: 196
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7255e64db9bd9460800000000000000
+      internalID: 7250155197725758078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 479
+        width: 236
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4feb6095fc01be0800000000000000
+      internalID: -1508477893896899346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 479
+        width: 244
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58f8b3ad6ba059d0800000000000000
+      internalID: -2787539681955743653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_14
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 489
+        width: 252
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb0fc821446cfa70800000000000000
+      internalID: 8862068397778602997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_15
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 484
+        width: 230
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71b2276a52e19cb0800000000000000
+      internalID: -4858853645050793602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 30
+        width: 228
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc214bc373e494f0800000000000000
+      internalID: -822782745431167798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_17
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 30
+        width: 242
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7078a5e5b8925100800000000000000
+      internalID: 95306449137725563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_18
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 23
+        width: 251
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414b3badd76226cb0800000000000000
+      internalID: -4872289524879477740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Pickaxe_19
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 41
+        width: 196
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26bc42da97b14270800000000000000
+      internalID: 8233063469391066670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_SitHoldingTool_Pickaxe_0: -3201982867343366
+      Character0_SitHoldingTool_Pickaxe_1: 6860084847705738812
+      Character0_SitHoldingTool_Pickaxe_10: 9123397279880595367
+      Character0_SitHoldingTool_Pickaxe_11: 7250155197725758078
+      Character0_SitHoldingTool_Pickaxe_12: -1508477893896899346
+      Character0_SitHoldingTool_Pickaxe_13: -2787539681955743653
+      Character0_SitHoldingTool_Pickaxe_14: 8862068397778602997
+      Character0_SitHoldingTool_Pickaxe_15: -4858853645050793602
+      Character0_SitHoldingTool_Pickaxe_16: -822782745431167798
+      Character0_SitHoldingTool_Pickaxe_17: 95306449137725563
+      Character0_SitHoldingTool_Pickaxe_18: -4872289524879477740
+      Character0_SitHoldingTool_Pickaxe_19: 8233063469391066670
+      Character0_SitHoldingTool_Pickaxe_2: 5557569063302243361
+      Character0_SitHoldingTool_Pickaxe_3: -34660138316223400
+      Character0_SitHoldingTool_Pickaxe_4: 171163989805601712
+      Character0_SitHoldingTool_Pickaxe_5: 962320777959439684
+      Character0_SitHoldingTool_Pickaxe_6: 1299587408152533647
+      Character0_SitHoldingTool_Pickaxe_7: 7169086015984499577
+      Character0_SitHoldingTool_Pickaxe_8: -2628544507363573334
+      Character0_SitHoldingTool_Pickaxe_9: 8378372741308420014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

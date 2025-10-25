@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: f4fb1b879df8cdd44ad23b962b1d82db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8406915985748947738
+    second: Character0_Dig_Showel_0
+  - first:
+      213: -1015615373107311517
+    second: Character0_Dig_Showel_1
+  - first:
+      213: 3984776373305820182
+    second: Character0_Dig_Showel_2
+  - first:
+      213: -1358727324951564608
+    second: Character0_Dig_Showel_3
+  - first:
+      213: 2739663911299177995
+    second: Character0_Dig_Showel_4
+  - first:
+      213: -7442542908086398105
+    second: Character0_Dig_Showel_5
+  - first:
+      213: -2170792168272033848
+    second: Character0_Dig_Showel_6
+  - first:
+      213: -8239232409440896571
+    second: Character0_Dig_Showel_7
+  - first:
+      213: 4638796932545788731
+    second: Character0_Dig_Showel_8
+  - first:
+      213: 5249195524413016607
+    second: Character0_Dig_Showel_9
+  - first:
+      213: -2704091099870254251
+    second: Character0_Dig_Showel_10
+  - first:
+      213: -4344016843946991305
+    second: Character0_Dig_Showel_11
+  - first:
+      213: 4195759620955336994
+    second: Character0_Dig_Showel_12
+  - first:
+      213: 4426862132692834568
+    second: Character0_Dig_Showel_13
+  - first:
+      213: 384502057546885467
+    second: Character0_Dig_Showel_14
+  - first:
+      213: 2509549751705457991
+    second: Character0_Dig_Showel_15
+  - first:
+      213: 6820152611575924585
+    second: Character0_Dig_Showel_16
+  - first:
+      213: 2285056545914268397
+    second: Character0_Dig_Showel_17
+  - first:
+      213: 4125569536545831039
+    second: Character0_Dig_Showel_18
+  - first:
+      213: -7127325794291548482
+    second: Character0_Dig_Showel_19
+  - first:
+      213: 5746389874794027243
+    second: Character0_Dig_Showel_20
+  - first:
+      213: -8454852878659095968
+    second: Character0_Dig_Showel_21
+  - first:
+      213: -1834069512803124041
+    second: Character0_Dig_Showel_22
+  - first:
+      213: -5878770133550949812
+    second: Character0_Dig_Showel_23
+  - first:
+      213: 5402014636756102603
+    second: Character0_Dig_Showel_24
+  - first:
+      213: -8318276469741174900
+    second: Character0_Dig_Showel_25
+  - first:
+      213: 4468852032642061019
+    second: Character0_Dig_Showel_26
+  - first:
+      213: 8474050896499994587
+    second: Character0_Dig_Showel_27
+  - first:
+      213: 6947069181950708915
+    second: Character0_Dig_Showel_28
+  - first:
+      213: 4208417818477231023
+    second: Character0_Dig_Showel_29
+  - first:
+      213: 8476518243552307091
+    second: Character0_Dig_Showel_30
+  - first:
+      213: 2948220088010256532
+    second: Character0_Dig_Showel_31
+  - first:
+      213: 4703898448963964446
+    second: Character0_Dig_Showel_32
+  - first:
+      213: -1081365175156011747
+    second: Character0_Dig_Showel_33
+  - first:
+      213: 7558702308005022714
+    second: Character0_Dig_Showel_34
+  - first:
+      213: -1621571441706533164
+    second: Character0_Dig_Showel_35
+  - first:
+      213: -4339679254660290968
+    second: Character0_Dig_Showel_36
+  - first:
+      213: -485831081060146201
+    second: Character0_Dig_Showel_37
+  - first:
+      213: 8534233101577523398
+    second: Character0_Dig_Showel_38
+  - first:
+      213: -4460468248693835211
+    second: Character0_Dig_Showel_39
+  - first:
+      213: -4158423341622523853
+    second: Character0_Dig_Showel_40
+  - first:
+      213: -8067215199286262286
+    second: Character0_Dig_Showel_41
+  - first:
+      213: -7985372209185454085
+    second: Character0_Dig_Showel_42
+  - first:
+      213: -7570559435870542449
+    second: Character0_Dig_Showel_43
+  - first:
+      213: -1971311864845131499
+    second: Character0_Dig_Showel_44
+  - first:
+      213: -8993585449770572531
+    second: Character0_Dig_Showel_45
+  - first:
+      213: 1045387461694056667
+    second: Character0_Dig_Showel_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1870
+        width: 182
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec81e4e372a45b80800000000000000
+      internalID: -8406915985748947738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1870
+        width: 182
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c4389f23fc7e1f0800000000000000
+      internalID: -1015615373107311517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_2
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1865
+        width: 182
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6144340dff4cc4730800000000000000
+      internalID: 3984776373305820182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_3
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1869
+        width: 253
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce25a162b4d42de0800000000000000
+      internalID: -1358727324951564608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_4
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2022
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ed1fcdfcd350620800000000000000
+      internalID: 2739663911299177995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_5
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1870
+        width: 206
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76358e948a6c6b890800000000000000
+      internalID: -7442542908086398105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_6
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 2030
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c702f8360ccfd1e0800000000000000
+      internalID: -2170792168272033848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_7
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 2023
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9b365e6cd58ad80800000000000000
+      internalID: -8239232409440896571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_8
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1870
+        width: 182
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b30959b31506040800000000000000
+      internalID: 4638796932545788731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_9
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 2008
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a453d9483e8d840800000000000000
+      internalID: 5249195524413016607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1396
+        width: 215
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b20f7b873297ad0800000000000000
+      internalID: -2704091099870254251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1396
+        width: 198
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731e93e22b3f6b3c0800000000000000
+      internalID: -4344016843946991305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_12
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1396
+        width: 192
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22178f925255a3a30800000000000000
+      internalID: 4195759620955336994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_13
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1396
+        width: 265
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809d8c8b7af5f6d30800000000000000
+      internalID: 4426862132692834568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_14
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1705
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b592d7b8596065500800000000000000
+      internalID: 384502057546885467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_15
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1672
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745d298f336b3d220800000000000000
+      internalID: 2509549751705457991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_16
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1396
+        width: 243
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9678fee5aac06ae50800000000000000
+      internalID: 6820152611575924585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_17
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 1396
+        width: 215
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaa6ee52d626bf10800000000000000
+      internalID: 2285056545914268397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_18
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1678
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78bcf1a2a7f04930800000000000000
+      internalID: 4125569536545831039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_19
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1669
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebef5c8c3f6a61d90800000000000000
+      internalID: -7127325794291548482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_20
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1656
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8dffb35274fbf40800000000000000
+      internalID: 5746389874794027243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 935
+        width: 241
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062f5534a145aaa80800000000000000
+      internalID: -8454852878659095968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_22
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 935
+        width: 213
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcfef3de731c86e0800000000000000
+      internalID: -1834069512803124041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_23
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 935
+        width: 195
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a1589e5b96a6ea0800000000000000
+      internalID: -5878770133550949812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_24
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 935
+        width: 298
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdee47e0bfc7fa40800000000000000
+      internalID: 5402014636756102603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_25
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1150
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f36957f9b8f8c80800000000000000
+      internalID: -8318276469741174900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_26
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 935
+        width: 262
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd299672f3d840e30800000000000000
+      internalID: 4468852032642061019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_27
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1120
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf66769460e99570800000000000000
+      internalID: 8474050896499994587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_28
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 935
+        width: 241
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc4c342d92f86060800000000000000
+      internalID: 6947069181950708915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 479
+        width: 237
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab72c075bd476a30800000000000000
+      internalID: 4208417818477231023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_30
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 479
+        width: 259
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397ad079e64a2a570800000000000000
+      internalID: 8476518243552307091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_31
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 479
+        width: 242
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b589bc8e2ae820800000000000000
+      internalID: 2948220088010256532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_32
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 479
+        width: 286
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e020e87ba974140800000000000000
+      internalID: 4703898448963964446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_33
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 759
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d095e3a183ef0f0800000000000000
+      internalID: -1081365175156011747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_34
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 479
+        width: 264
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb809f83b7e5e860800000000000000
+      internalID: 7558702308005022714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_35
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 755
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4def92f7d550f79e0800000000000000
+      internalID: -1621571441706533164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_36
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 479
+        width: 237
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86667d2e5bc56c3c0800000000000000
+      internalID: -4339679254660290968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 30
+        width: 182
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e090b43bf149f0800000000000000
+      internalID: -485831081060146201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_38
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 30
+        width: 182
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c098e12acfaf6670800000000000000
+      internalID: 8534233101577523398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_39
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 30
+        width: 182
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af1b8a2cb3912c0800000000000000
+      internalID: -4460468248693835211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_40
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 29
+        width: 253
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33885e8c0005a46c0800000000000000
+      internalID: -4158423341622523853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_41
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 30
+        width: 206
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f509e7a48e7b0090800000000000000
+      internalID: -8067215199286262286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_42
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 196
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf78938b8424e2190800000000000000
+      internalID: -7985372209185454085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_43
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 30
+        width: 182
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8564f9bd48ffe690800000000000000
+      internalID: -7570559435870542449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_44
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 197
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a46aad4e74a4e0800000000000000
+      internalID: -1971311864845131499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_45
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 204
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05ad49fead503380800000000000000
+      internalID: -8993585449770572531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Dig_Showel_46
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 182
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8ebe29b56f18e00800000000000000
+      internalID: 1045387461694056667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_Dig_Showel_0: -8406915985748947738
+      Character0_Dig_Showel_1: -1015615373107311517
+      Character0_Dig_Showel_10: -2704091099870254251
+      Character0_Dig_Showel_11: -4344016843946991305
+      Character0_Dig_Showel_12: 4195759620955336994
+      Character0_Dig_Showel_13: 4426862132692834568
+      Character0_Dig_Showel_14: 384502057546885467
+      Character0_Dig_Showel_15: 2509549751705457991
+      Character0_Dig_Showel_16: 6820152611575924585
+      Character0_Dig_Showel_17: 2285056545914268397
+      Character0_Dig_Showel_18: 4125569536545831039
+      Character0_Dig_Showel_19: -7127325794291548482
+      Character0_Dig_Showel_2: 3984776373305820182
+      Character0_Dig_Showel_20: 5746389874794027243
+      Character0_Dig_Showel_21: -8454852878659095968
+      Character0_Dig_Showel_22: -1834069512803124041
+      Character0_Dig_Showel_23: -5878770133550949812
+      Character0_Dig_Showel_24: 5402014636756102603
+      Character0_Dig_Showel_25: -8318276469741174900
+      Character0_Dig_Showel_26: 4468852032642061019
+      Character0_Dig_Showel_27: 8474050896499994587
+      Character0_Dig_Showel_28: 6947069181950708915
+      Character0_Dig_Showel_29: 4208417818477231023
+      Character0_Dig_Showel_3: -1358727324951564608
+      Character0_Dig_Showel_30: 8476518243552307091
+      Character0_Dig_Showel_31: 2948220088010256532
+      Character0_Dig_Showel_32: 4703898448963964446
+      Character0_Dig_Showel_33: -1081365175156011747
+      Character0_Dig_Showel_34: 7558702308005022714
+      Character0_Dig_Showel_35: -1621571441706533164
+      Character0_Dig_Showel_36: -4339679254660290968
+      Character0_Dig_Showel_37: -485831081060146201
+      Character0_Dig_Showel_38: 8534233101577523398
+      Character0_Dig_Showel_39: -4460468248693835211
+      Character0_Dig_Showel_4: 2739663911299177995
+      Character0_Dig_Showel_40: -4158423341622523853
+      Character0_Dig_Showel_41: -8067215199286262286
+      Character0_Dig_Showel_42: -7985372209185454085
+      Character0_Dig_Showel_43: -7570559435870542449
+      Character0_Dig_Showel_44: -1971311864845131499
+      Character0_Dig_Showel_45: -8993585449770572531
+      Character0_Dig_Showel_46: 1045387461694056667
+      Character0_Dig_Showel_5: -7442542908086398105
+      Character0_Dig_Showel_6: -2170792168272033848
+      Character0_Dig_Showel_7: -8239232409440896571
+      Character0_Dig_Showel_8: 4638796932545788731
+      Character0_Dig_Showel_9: 5249195524413016607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

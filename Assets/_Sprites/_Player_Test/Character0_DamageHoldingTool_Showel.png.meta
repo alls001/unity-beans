@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 8a57544a7cff9f848be374ecc5d2ab45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1950690878398690102
+    second: Character0_DamageHoldingTool_Showel_0
+  - first:
+      213: 7634128598527799036
+    second: Character0_DamageHoldingTool_Showel_1
+  - first:
+      213: 3114132361882697751
+    second: Character0_DamageHoldingTool_Showel_2
+  - first:
+      213: 4505852043458023845
+    second: Character0_DamageHoldingTool_Showel_3
+  - first:
+      213: 4457528738908155875
+    second: Character0_DamageHoldingTool_Showel_4
+  - first:
+      213: -5795589726347277217
+    second: Character0_DamageHoldingTool_Showel_5
+  - first:
+      213: 3371023364450127427
+    second: Character0_DamageHoldingTool_Showel_6
+  - first:
+      213: -1942712966704471621
+    second: Character0_DamageHoldingTool_Showel_7
+  - first:
+      213: -2441289776389753984
+    second: Character0_DamageHoldingTool_Showel_8
+  - first:
+      213: -6542655477476076401
+    second: Character0_DamageHoldingTool_Showel_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1871
+        width: 260
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc83763bf0cde4e0800000000000000
+      internalID: -1950690878398690102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1871
+        width: 246
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe66e4538fd1f960800000000000000
+      internalID: 7634128598527799036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1397
+        width: 227
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710019d32ee973b20800000000000000
+      internalID: 3114132361882697751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1395
+        width: 214
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a198cc7f80088e30800000000000000
+      internalID: 4505852043458023845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 937
+        width: 191
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef27b265c25cdd30800000000000000
+      internalID: 4457528738908155875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 935
+        width: 219
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cca29a9dde19fa0800000000000000
+      internalID: -5795589726347277217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 477
+        width: 269
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e8797b3e748ce20800000000000000
+      internalID: 3371023364450127427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 479
+        width: 264
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1e80789d81a05e0800000000000000
+      internalID: -1942712966704471621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 31
+        width: 260
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083fe7402ebce1ed0800000000000000
+      internalID: -2441289776389753984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_Showel_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 31
+        width: 246
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f845649f181d335a0800000000000000
+      internalID: -6542655477476076401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_DamageHoldingTool_Showel_0: -1950690878398690102
+      Character0_DamageHoldingTool_Showel_1: 7634128598527799036
+      Character0_DamageHoldingTool_Showel_2: 3114132361882697751
+      Character0_DamageHoldingTool_Showel_3: 4505852043458023845
+      Character0_DamageHoldingTool_Showel_4: 4457528738908155875
+      Character0_DamageHoldingTool_Showel_5: -5795589726347277217
+      Character0_DamageHoldingTool_Showel_6: 3371023364450127427
+      Character0_DamageHoldingTool_Showel_7: -1942712966704471621
+      Character0_DamageHoldingTool_Showel_8: -2441289776389753984
+      Character0_DamageHoldingTool_Showel_9: -6542655477476076401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

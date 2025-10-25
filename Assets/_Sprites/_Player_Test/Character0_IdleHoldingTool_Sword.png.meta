@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 520915fd0f3092844a16964313f64782
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2618191825208374366
+    second: Character0_IdleHoldingTool_Sword_0
+  - first:
+      213: 11719853273909813
+    second: Character0_IdleHoldingTool_Sword_1
+  - first:
+      213: 6661946716076936804
+    second: Character0_IdleHoldingTool_Sword_2
+  - first:
+      213: 3227951669373580082
+    second: Character0_IdleHoldingTool_Sword_3
+  - first:
+      213: 1092033867425140151
+    second: Character0_IdleHoldingTool_Sword_4
+  - first:
+      213: 7995184873141360735
+    second: Character0_IdleHoldingTool_Sword_5
+  - first:
+      213: 1820385024533152059
+    second: Character0_IdleHoldingTool_Sword_6
+  - first:
+      213: -8318747874669897214
+    second: Character0_IdleHoldingTool_Sword_7
+  - first:
+      213: -8301885164672635425
+    second: Character0_IdleHoldingTool_Sword_8
+  - first:
+      213: 6765223404269754406
+    second: Character0_IdleHoldingTool_Sword_9
+  - first:
+      213: -6502591445936394171
+    second: Character0_IdleHoldingTool_Sword_10
+  - first:
+      213: 4534695859412402772
+    second: Character0_IdleHoldingTool_Sword_11
+  - first:
+      213: -3243674177818454537
+    second: Character0_IdleHoldingTool_Sword_12
+  - first:
+      213: -3557504514068878934
+    second: Character0_IdleHoldingTool_Sword_13
+  - first:
+      213: 1783044699725070930
+    second: Character0_IdleHoldingTool_Sword_14
+  - first:
+      213: 3458134892026842894
+    second: Character0_IdleHoldingTool_Sword_15
+  - first:
+      213: -8993635930991336536
+    second: Character0_IdleHoldingTool_Sword_16
+  - first:
+      213: -5253774920849751101
+    second: Character0_IdleHoldingTool_Sword_17
+  - first:
+      213: -7016836769639804753
+    second: Character0_IdleHoldingTool_Sword_18
+  - first:
+      213: 123269618963433476
+    second: Character0_IdleHoldingTool_Sword_19
+  - first:
+      213: 1339608274334469347
+    second: Character0_IdleHoldingTool_Sword_20
+  - first:
+      213: -4892445785274789381
+    second: Character0_IdleHoldingTool_Sword_21
+  - first:
+      213: 7915274137247240336
+    second: Character0_IdleHoldingTool_Sword_22
+  - first:
+      213: -2567585245913298641
+    second: Character0_IdleHoldingTool_Sword_23
+  - first:
+      213: 5657387114978902588
+    second: Character0_IdleHoldingTool_Sword_24
+  - first:
+      213: -6134599049166282677
+    second: Character0_IdleHoldingTool_Sword_25
+  - first:
+      213: -4677809188753294542
+    second: Character0_IdleHoldingTool_Sword_26
+  - first:
+      213: 7842583373536246633
+    second: Character0_IdleHoldingTool_Sword_27
+  - first:
+      213: 7302471906553561389
+    second: Character0_IdleHoldingTool_Sword_28
+  - first:
+      213: 7021576367602517101
+    second: Character0_IdleHoldingTool_Sword_29
+  - first:
+      213: -4357084673834648299
+    second: Character0_IdleHoldingTool_Sword_30
+  - first:
+      213: -1955838082688202670
+    second: Character0_IdleHoldingTool_Sword_31
+  - first:
+      213: 7098693635870219402
+    second: Character0_IdleHoldingTool_Sword_32
+  - first:
+      213: -5381382176436676216
+    second: Character0_IdleHoldingTool_Sword_33
+  - first:
+      213: 659945155407239082
+    second: Character0_IdleHoldingTool_Sword_34
+  - first:
+      213: -5788943140449184767
+    second: Character0_IdleHoldingTool_Sword_35
+  - first:
+      213: 1994830193228727524
+    second: Character0_IdleHoldingTool_Sword_36
+  - first:
+      213: 5608927734096053669
+    second: Character0_IdleHoldingTool_Sword_37
+  - first:
+      213: 8040753717878687808
+    second: Character0_IdleHoldingTool_Sword_38
+  - first:
+      213: 2702573921679215072
+    second: Character0_IdleHoldingTool_Sword_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1870
+        width: 212
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab8f9028605aabd0800000000000000
+      internalID: -2618191825208374366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1870
+        width: 212
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a063bf423a92000800000000000000
+      internalID: 11719853273909813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1870
+        width: 212
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e8854ed3df37c50800000000000000
+      internalID: 6661946716076936804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1870
+        width: 212
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233342dd0fcfbcc20800000000000000
+      internalID: 3227951669373580082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1870
+        width: 212
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd429e340fa72f00800000000000000
+      internalID: 1092033867425140151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 1870
+        width: 212
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58da25284a94fe60800000000000000
+      internalID: 7995184873141360735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_6
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1870
+        width: 212
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b314db5f88e434910800000000000000
+      internalID: 1820385024533152059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_7
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 1870
+        width: 212
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad342f1eedd8c80800000000000000
+      internalID: -8318747874669897214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1396
+        width: 187
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd2a919d67c9cc80800000000000000
+      internalID: -8301885164672635425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1396
+        width: 187
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62858ada7d6e2ed50800000000000000
+      internalID: 6765223404269754406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_10
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1396
+        width: 187
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540b779388722c5a0800000000000000
+      internalID: -6502591445936394171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_11
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1396
+        width: 187
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45206b8bbd97eee30800000000000000
+      internalID: 4534695859412402772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_12
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1396
+        width: 187
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5160065872cf2d0800000000000000
+      internalID: -3243674177818454537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_13
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1396
+        width: 187
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa963103e7431aec0800000000000000
+      internalID: -3557504514068878934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_14
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 1396
+        width: 187
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25281c915b5aeb810800000000000000
+      internalID: 1783044699725070930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_15
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1396
+        width: 187
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fc4a0cc53cdff20800000000000000
+      internalID: 3458134892026842894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 935
+        width: 218
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3621665cf203380800000000000000
+      internalID: -8993635930991336536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 935
+        width: 218
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c305e09b87d617b0800000000000000
+      internalID: -5253774920849751101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_18
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 935
+        width: 218
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa058b282203f9e90800000000000000
+      internalID: -7016836769639804753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_19
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 935
+        width: 218
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408c9e9b011f5b100800000000000000
+      internalID: 123269618963433476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_20
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 935
+        width: 218
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec41e1c0ae379210800000000000000
+      internalID: 1339608274334469347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_21
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 935
+        width: 218
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1d6d5ca7a8a1cb0800000000000000
+      internalID: -4892445785274789381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_22
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 935
+        width: 218
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090557214e3b8dd60800000000000000
+      internalID: 7915274137247240336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_23
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 935
+        width: 218
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29cdce82da1e5cd0800000000000000
+      internalID: -2567585245913298641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 479
+        width: 268
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3280316b93138e40800000000000000
+      internalID: 5657387114978902588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 479
+        width: 268
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40aef2daa68ddaa0800000000000000
+      internalID: -6134599049166282677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_26
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 479
+        width: 268
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b3d41b355151fb0800000000000000
+      internalID: -4677809188753294542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_27
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 479
+        width: 268
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b3305c60476dc60800000000000000
+      internalID: 7842583373536246633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_28
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 479
+        width: 268
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2105644287975560800000000000000
+      internalID: 7302471906553561389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_29
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 479
+        width: 268
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64c9322186a17160800000000000000
+      internalID: 7021576367602517101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_30
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 479
+        width: 268
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d79cfe2968883c0800000000000000
+      internalID: -4357084673834648299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_31
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 479
+        width: 268
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258403350a77bd4e0800000000000000
+      internalID: -1955838082688202670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 30
+        width: 212
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cde575040a38260800000000000000
+      internalID: 7098693635870219402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_33
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 30
+        width: 212
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8899fdc1c6d7155b0800000000000000
+      internalID: -5381382176436676216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_34
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 30
+        width: 212
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7d94f4f98982900800000000000000
+      internalID: 659945155407239082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_35
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 30
+        width: 212
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104979882ea89afa0800000000000000
+      internalID: -5788943140449184767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_36
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 30
+        width: 212
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e44f9edd7f0fab10800000000000000
+      internalID: 1994830193228727524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_37
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 30
+        width: 212
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5c1a98e0ae6dd40800000000000000
+      internalID: 5608927734096053669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_38
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 30
+        width: 212
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0488f8897ee769f60800000000000000
+      internalID: 8040753717878687808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Sword_39
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 30
+        width: 212
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e98ce4b9a8718520800000000000000
+      internalID: 2702573921679215072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_IdleHoldingTool_Sword_0: -2618191825208374366
+      Character0_IdleHoldingTool_Sword_1: 11719853273909813
+      Character0_IdleHoldingTool_Sword_10: -6502591445936394171
+      Character0_IdleHoldingTool_Sword_11: 4534695859412402772
+      Character0_IdleHoldingTool_Sword_12: -3243674177818454537
+      Character0_IdleHoldingTool_Sword_13: -3557504514068878934
+      Character0_IdleHoldingTool_Sword_14: 1783044699725070930
+      Character0_IdleHoldingTool_Sword_15: 3458134892026842894
+      Character0_IdleHoldingTool_Sword_16: -8993635930991336536
+      Character0_IdleHoldingTool_Sword_17: -5253774920849751101
+      Character0_IdleHoldingTool_Sword_18: -7016836769639804753
+      Character0_IdleHoldingTool_Sword_19: 123269618963433476
+      Character0_IdleHoldingTool_Sword_2: 6661946716076936804
+      Character0_IdleHoldingTool_Sword_20: 1339608274334469347
+      Character0_IdleHoldingTool_Sword_21: -4892445785274789381
+      Character0_IdleHoldingTool_Sword_22: 7915274137247240336
+      Character0_IdleHoldingTool_Sword_23: -2567585245913298641
+      Character0_IdleHoldingTool_Sword_24: 5657387114978902588
+      Character0_IdleHoldingTool_Sword_25: -6134599049166282677
+      Character0_IdleHoldingTool_Sword_26: -4677809188753294542
+      Character0_IdleHoldingTool_Sword_27: 7842583373536246633
+      Character0_IdleHoldingTool_Sword_28: 7302471906553561389
+      Character0_IdleHoldingTool_Sword_29: 7021576367602517101
+      Character0_IdleHoldingTool_Sword_3: 3227951669373580082
+      Character0_IdleHoldingTool_Sword_30: -4357084673834648299
+      Character0_IdleHoldingTool_Sword_31: -1955838082688202670
+      Character0_IdleHoldingTool_Sword_32: 7098693635870219402
+      Character0_IdleHoldingTool_Sword_33: -5381382176436676216
+      Character0_IdleHoldingTool_Sword_34: 659945155407239082
+      Character0_IdleHoldingTool_Sword_35: -5788943140449184767
+      Character0_IdleHoldingTool_Sword_36: 1994830193228727524
+      Character0_IdleHoldingTool_Sword_37: 5608927734096053669
+      Character0_IdleHoldingTool_Sword_38: 8040753717878687808
+      Character0_IdleHoldingTool_Sword_39: 2702573921679215072
+      Character0_IdleHoldingTool_Sword_4: 1092033867425140151
+      Character0_IdleHoldingTool_Sword_5: 7995184873141360735
+      Character0_IdleHoldingTool_Sword_6: 1820385024533152059
+      Character0_IdleHoldingTool_Sword_7: -8318747874669897214
+      Character0_IdleHoldingTool_Sword_8: -8301885164672635425
+      Character0_IdleHoldingTool_Sword_9: 6765223404269754406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

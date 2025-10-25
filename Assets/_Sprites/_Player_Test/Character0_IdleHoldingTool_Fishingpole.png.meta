@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: ee64786e451fcd940a34b683b2c71e2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4016698517212464980
+    second: Character0_IdleHoldingTool_Fishingpole_0
+  - first:
+      213: 8802611035391722609
+    second: Character0_IdleHoldingTool_Fishingpole_1
+  - first:
+      213: 8919111860978402759
+    second: Character0_IdleHoldingTool_Fishingpole_2
+  - first:
+      213: -3176825194091820103
+    second: Character0_IdleHoldingTool_Fishingpole_3
+  - first:
+      213: -8553124026393951791
+    second: Character0_IdleHoldingTool_Fishingpole_4
+  - first:
+      213: -6300092789329458289
+    second: Character0_IdleHoldingTool_Fishingpole_5
+  - first:
+      213: -4826872447977176475
+    second: Character0_IdleHoldingTool_Fishingpole_6
+  - first:
+      213: 6933117446676179219
+    second: Character0_IdleHoldingTool_Fishingpole_7
+  - first:
+      213: -4754139924556067151
+    second: Character0_IdleHoldingTool_Fishingpole_8
+  - first:
+      213: -6041090011509432431
+    second: Character0_IdleHoldingTool_Fishingpole_9
+  - first:
+      213: -7852866263554536530
+    second: Character0_IdleHoldingTool_Fishingpole_10
+  - first:
+      213: 6545145411472148149
+    second: Character0_IdleHoldingTool_Fishingpole_11
+  - first:
+      213: -5665461114042682309
+    second: Character0_IdleHoldingTool_Fishingpole_12
+  - first:
+      213: -2997189674376995662
+    second: Character0_IdleHoldingTool_Fishingpole_13
+  - first:
+      213: 7110550575517554193
+    second: Character0_IdleHoldingTool_Fishingpole_14
+  - first:
+      213: 2076050389632999290
+    second: Character0_IdleHoldingTool_Fishingpole_15
+  - first:
+      213: -5901729666908890885
+    second: Character0_IdleHoldingTool_Fishingpole_16
+  - first:
+      213: -5188879498117484856
+    second: Character0_IdleHoldingTool_Fishingpole_17
+  - first:
+      213: -6707509361751074789
+    second: Character0_IdleHoldingTool_Fishingpole_18
+  - first:
+      213: -7404448469061432762
+    second: Character0_IdleHoldingTool_Fishingpole_19
+  - first:
+      213: 1231378767099114182
+    second: Character0_IdleHoldingTool_Fishingpole_20
+  - first:
+      213: -1249145818762412669
+    second: Character0_IdleHoldingTool_Fishingpole_21
+  - first:
+      213: 5613879132941453818
+    second: Character0_IdleHoldingTool_Fishingpole_22
+  - first:
+      213: -4764395381484290285
+    second: Character0_IdleHoldingTool_Fishingpole_23
+  - first:
+      213: -3183084637835907802
+    second: Character0_IdleHoldingTool_Fishingpole_24
+  - first:
+      213: -3276715669672237097
+    second: Character0_IdleHoldingTool_Fishingpole_25
+  - first:
+      213: 7286912812833321432
+    second: Character0_IdleHoldingTool_Fishingpole_26
+  - first:
+      213: -2993246583193911254
+    second: Character0_IdleHoldingTool_Fishingpole_27
+  - first:
+      213: 7356059436931330094
+    second: Character0_IdleHoldingTool_Fishingpole_28
+  - first:
+      213: 8423324322669087769
+    second: Character0_IdleHoldingTool_Fishingpole_29
+  - first:
+      213: -1554915338037283561
+    second: Character0_IdleHoldingTool_Fishingpole_30
+  - first:
+      213: 7312840111374192092
+    second: Character0_IdleHoldingTool_Fishingpole_31
+  - first:
+      213: -206407337955164307
+    second: Character0_IdleHoldingTool_Fishingpole_32
+  - first:
+      213: -8953511858902307538
+    second: Character0_IdleHoldingTool_Fishingpole_33
+  - first:
+      213: 3557749245852443811
+    second: Character0_IdleHoldingTool_Fishingpole_34
+  - first:
+      213: -2640339122335734940
+    second: Character0_IdleHoldingTool_Fishingpole_35
+  - first:
+      213: -3666940764249912441
+    second: Character0_IdleHoldingTool_Fishingpole_36
+  - first:
+      213: 5764915076557968589
+    second: Character0_IdleHoldingTool_Fishingpole_37
+  - first:
+      213: 6958205611053823311
+    second: Character0_IdleHoldingTool_Fishingpole_38
+  - first:
+      213: 7407477759002799501
+    second: Character0_IdleHoldingTool_Fishingpole_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1870
+        width: 246
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4578940250e2eb730800000000000000
+      internalID: 4016698517212464980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1870
+        width: 246
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17405743918292a70800000000000000
+      internalID: 8802611035391722609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_2
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1870
+        width: 246
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c547996bfc07cb70800000000000000
+      internalID: 8919111860978402759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1870
+        width: 246
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb45a84156a9e3d0800000000000000
+      internalID: -3176825194091820103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_4
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1870
+        width: 246
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d10eeea3033d4980800000000000000
+      internalID: -8553124026393951791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_5
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 1870
+        width: 246
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b8408ccf29198a0800000000000000
+      internalID: -6300092789329458289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_6
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1870
+        width: 246
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562433a1511830db0800000000000000
+      internalID: -4826872447977176475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_7
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 1870
+        width: 246
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3196233a591673060800000000000000
+      internalID: 6933117446676179219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1396
+        width: 212
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be45585de6e50eb0800000000000000
+      internalID: -4754139924556067151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1396
+        width: 212
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fd1df34acb92ca0800000000000000
+      internalID: -6041090011509432431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_10
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1396
+        width: 212
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabce245db3050390800000000000000
+      internalID: -7852866263554536530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_11
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1396
+        width: 212
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b64316f21705da50800000000000000
+      internalID: 6545145411472148149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_12
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1396
+        width: 212
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3472b8322d3061b0800000000000000
+      internalID: -5665461114042682309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_13
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1396
+        width: 212
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc5a46fed7d766d0800000000000000
+      internalID: -2997189674376995662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_14
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 1396
+        width: 212
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1165c2b3310cda260800000000000000
+      internalID: 7110550575517554193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_15
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1396
+        width: 212
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd2e974dc9fcc10800000000000000
+      internalID: 2076050389632999290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 935
+        width: 225
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8d28bf228d81ea0800000000000000
+      internalID: -5901729666908890885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_17
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 935
+        width: 225
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce666c96956df7b0800000000000000
+      internalID: -5188879498117484856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_18
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 935
+        width: 225
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18583df5c32ae2a0800000000000000
+      internalID: -6707509361751074789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_19
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 935
+        width: 225
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a88eb095d1e3990800000000000000
+      internalID: -7404448469061432762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_20
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 935
+        width: 225
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b6ece67cb61110800000000000000
+      internalID: 1231378767099114182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_21
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 935
+        width: 225
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d70000f742aaee0800000000000000
+      internalID: -1249145818762412669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_22
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 935
+        width: 225
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af904fae35188ed40800000000000000
+      internalID: 5613879132941453818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_23
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 935
+        width: 225
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ffd15b4a771edb0800000000000000
+      internalID: -4764395381484290285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 479
+        width: 263
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da9c7f26963d3d0800000000000000
+      internalID: -3183084637835907802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_25
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 479
+        width: 263
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7ea3f8574c682d0800000000000000
+      internalID: -3276715669672237097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_26
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 479
+        width: 263
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d13c267890502560800000000000000
+      internalID: 7286912812833321432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_27
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 479
+        width: 263
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20439b671ad576d0800000000000000
+      internalID: -2993246583193911254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_28
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 479
+        width: 263
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20b3f47519f51660800000000000000
+      internalID: 7356059436931330094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_29
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 479
+        width: 263
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c4990c7d8a5e470800000000000000
+      internalID: 8423324322669087769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_30
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 479
+        width: 263
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7153b740db4db6ae0800000000000000
+      internalID: -1554915338037283561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_31
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 479
+        width: 263
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddcfa1165d6c7560800000000000000
+      internalID: 7312840111374192092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 30
+        width: 246
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff526ae91b22df0800000000000000
+      internalID: -206407337955164307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_33
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 30
+        width: 246
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d61ede66cbeb380800000000000000
+      internalID: -8953511858902307538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_34
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 30
+        width: 246
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4e2fed61aaf5130800000000000000
+      internalID: 3557749245852443811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_35
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 30
+        width: 246
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ac9eae81ab5bd0800000000000000
+      internalID: -2640339122335734940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_36
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 30
+        width: 246
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b0c7e9dc86c1dc0800000000000000
+      internalID: -3666940764249912441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_37
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 30
+        width: 246
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41882e7b7110050800000000000000
+      internalID: 5764915076557968589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_38
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 30
+        width: 246
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f453ef81323809060800000000000000
+      internalID: 6958205611053823311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Fishingpole_39
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 30
+        width: 246
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8de7fa76c5acc660800000000000000
+      internalID: 7407477759002799501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_IdleHoldingTool_Fishingpole_0: 4016698517212464980
+      Character0_IdleHoldingTool_Fishingpole_1: 8802611035391722609
+      Character0_IdleHoldingTool_Fishingpole_10: -7852866263554536530
+      Character0_IdleHoldingTool_Fishingpole_11: 6545145411472148149
+      Character0_IdleHoldingTool_Fishingpole_12: -5665461114042682309
+      Character0_IdleHoldingTool_Fishingpole_13: -2997189674376995662
+      Character0_IdleHoldingTool_Fishingpole_14: 7110550575517554193
+      Character0_IdleHoldingTool_Fishingpole_15: 2076050389632999290
+      Character0_IdleHoldingTool_Fishingpole_16: -5901729666908890885
+      Character0_IdleHoldingTool_Fishingpole_17: -5188879498117484856
+      Character0_IdleHoldingTool_Fishingpole_18: -6707509361751074789
+      Character0_IdleHoldingTool_Fishingpole_19: -7404448469061432762
+      Character0_IdleHoldingTool_Fishingpole_2: 8919111860978402759
+      Character0_IdleHoldingTool_Fishingpole_20: 1231378767099114182
+      Character0_IdleHoldingTool_Fishingpole_21: -1249145818762412669
+      Character0_IdleHoldingTool_Fishingpole_22: 5613879132941453818
+      Character0_IdleHoldingTool_Fishingpole_23: -4764395381484290285
+      Character0_IdleHoldingTool_Fishingpole_24: -3183084637835907802
+      Character0_IdleHoldingTool_Fishingpole_25: -3276715669672237097
+      Character0_IdleHoldingTool_Fishingpole_26: 7286912812833321432
+      Character0_IdleHoldingTool_Fishingpole_27: -2993246583193911254
+      Character0_IdleHoldingTool_Fishingpole_28: 7356059436931330094
+      Character0_IdleHoldingTool_Fishingpole_29: 8423324322669087769
+      Character0_IdleHoldingTool_Fishingpole_3: -3176825194091820103
+      Character0_IdleHoldingTool_Fishingpole_30: -1554915338037283561
+      Character0_IdleHoldingTool_Fishingpole_31: 7312840111374192092
+      Character0_IdleHoldingTool_Fishingpole_32: -206407337955164307
+      Character0_IdleHoldingTool_Fishingpole_33: -8953511858902307538
+      Character0_IdleHoldingTool_Fishingpole_34: 3557749245852443811
+      Character0_IdleHoldingTool_Fishingpole_35: -2640339122335734940
+      Character0_IdleHoldingTool_Fishingpole_36: -3666940764249912441
+      Character0_IdleHoldingTool_Fishingpole_37: 5764915076557968589
+      Character0_IdleHoldingTool_Fishingpole_38: 6958205611053823311
+      Character0_IdleHoldingTool_Fishingpole_39: 7407477759002799501
+      Character0_IdleHoldingTool_Fishingpole_4: -8553124026393951791
+      Character0_IdleHoldingTool_Fishingpole_5: -6300092789329458289
+      Character0_IdleHoldingTool_Fishingpole_6: -4826872447977176475
+      Character0_IdleHoldingTool_Fishingpole_7: 6933117446676179219
+      Character0_IdleHoldingTool_Fishingpole_8: -4754139924556067151
+      Character0_IdleHoldingTool_Fishingpole_9: -6041090011509432431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

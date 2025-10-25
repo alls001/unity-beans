@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8b72edf9d2299244babbfaec7bd25ffa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2748011677884430620
+    second: Character0_Run_Hammer_0
+  - first:
+      213: 5031229227365082418
+    second: Character0_Run_Hammer_1
+  - first:
+      213: -9214706187787959660
+    second: Character0_Run_Hammer_2
+  - first:
+      213: -8804731881261339919
+    second: Character0_Run_Hammer_3
+  - first:
+      213: 3324382824315625001
+    second: Character0_Run_Hammer_4
+  - first:
+      213: 768336844399372703
+    second: Character0_Run_Hammer_5
+  - first:
+      213: 258158840882111152
+    second: Character0_Run_Hammer_6
+  - first:
+      213: 6912514301349355520
+    second: Character0_Run_Hammer_7
+  - first:
+      213: -8181021312869368928
+    second: Character0_Run_Hammer_8
+  - first:
+      213: -3179931905895287323
+    second: Character0_Run_Hammer_9
+  - first:
+      213: -8667951231374751315
+    second: Character0_Run_Hammer_10
+  - first:
+      213: 8447647290959780479
+    second: Character0_Run_Hammer_11
+  - first:
+      213: -3049959620754782325
+    second: Character0_Run_Hammer_12
+  - first:
+      213: 4755067266149069413
+    second: Character0_Run_Hammer_13
+  - first:
+      213: -1436835769259247245
+    second: Character0_Run_Hammer_14
+  - first:
+      213: -4313967005763958403
+    second: Character0_Run_Hammer_15
+  - first:
+      213: 5627495618312698844
+    second: Character0_Run_Hammer_16
+  - first:
+      213: -8699954778860955934
+    second: Character0_Run_Hammer_17
+  - first:
+      213: 2541771493943896548
+    second: Character0_Run_Hammer_18
+  - first:
+      213: 3976255374094483854
+    second: Character0_Run_Hammer_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1871
+        width: 221
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c193deabf06e22620800000000000000
+      internalID: 2748011677884430620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_1
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1860
+        width: 227
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235a8a0635482d540800000000000000
+      internalID: 5031229227365082418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_2
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1870
+        width: 219
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4920e473b89ce1080800000000000000
+      internalID: -9214706187787959660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_3
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1862
+        width: 227
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa6cd2e00f4fc580800000000000000
+      internalID: -8804731881261339919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1396
+        width: 194
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e1ebcb094922e20800000000000000
+      internalID: 3324382824315625001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1395
+        width: 182
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99e4460a4ea9aa00800000000000000
+      internalID: 768336844399372703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_6
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1396
+        width: 194
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2a766191a259300800000000000000
+      internalID: 258158840882111152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_7
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1398
+        width: 220
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006cbc022f2eef50800000000000000
+      internalID: 6912514301349355520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 934
+        width: 184
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab758af57c277e80800000000000000
+      internalID: -8181021312869368928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 935
+        width: 194
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e53e2397cc9ed3d0800000000000000
+      internalID: -3179931905895287323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_10
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 938
+        width: 184
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da98f73a74045b780800000000000000
+      internalID: -8667951231374751315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_11
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 936
+        width: 182
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ad27d14721c3570800000000000000
+      internalID: 8447647290959780479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 479
+        width: 230
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8740a162ed5ca5d0800000000000000
+      internalID: -3049959620754782325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 478
+        width: 241
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56237e13c746df140800000000000000
+      internalID: 4755067266149069413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_14
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 479
+        width: 230
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3793ab40b755f0ce0800000000000000
+      internalID: -1436835769259247245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_15
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 480
+        width: 217
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d790fa85dd5b124c0800000000000000
+      internalID: -4313967005763958403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 31
+        width: 221
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb7898f271e81e40800000000000000
+      internalID: 5627495618312698844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 20
+        width: 227
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6d704193d834780800000000000000
+      internalID: -8699954778860955934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_18
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 30
+        width: 219
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e96db4f4bf264320800000000000000
+      internalID: 2541771493943896548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_Run_Hammer_19
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 22
+        width: 227
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81c325123f7e2730800000000000000
+      internalID: 3976255374094483854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_Run_Hammer_0: 2748011677884430620
+      Character0_Run_Hammer_1: 5031229227365082418
+      Character0_Run_Hammer_10: -8667951231374751315
+      Character0_Run_Hammer_11: 8447647290959780479
+      Character0_Run_Hammer_12: -3049959620754782325
+      Character0_Run_Hammer_13: 4755067266149069413
+      Character0_Run_Hammer_14: -1436835769259247245
+      Character0_Run_Hammer_15: -4313967005763958403
+      Character0_Run_Hammer_16: 5627495618312698844
+      Character0_Run_Hammer_17: -8699954778860955934
+      Character0_Run_Hammer_18: 2541771493943896548
+      Character0_Run_Hammer_19: 3976255374094483854
+      Character0_Run_Hammer_2: -9214706187787959660
+      Character0_Run_Hammer_3: -8804731881261339919
+      Character0_Run_Hammer_4: 3324382824315625001
+      Character0_Run_Hammer_5: 768336844399372703
+      Character0_Run_Hammer_6: 258158840882111152
+      Character0_Run_Hammer_7: 6912514301349355520
+      Character0_Run_Hammer_8: -8181021312869368928
+      Character0_Run_Hammer_9: -3179931905895287323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

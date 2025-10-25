@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 3a0f3d4b996b7c44fbd15f3cd9b41d85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -440968303304194826
+    second: Character0_GetUpHoldingTool_Shield_0
+  - first:
+      213: 9165983534723215797
+    second: Character0_GetUpHoldingTool_Shield_1
+  - first:
+      213: -3926998023457817059
+    second: Character0_GetUpHoldingTool_Shield_2
+  - first:
+      213: 7542789911921086129
+    second: Character0_GetUpHoldingTool_Shield_3
+  - first:
+      213: 7749047980532091810
+    second: Character0_GetUpHoldingTool_Shield_4
+  - first:
+      213: -1174004932963252886
+    second: Character0_GetUpHoldingTool_Shield_5
+  - first:
+      213: -6379974605964432962
+    second: Character0_GetUpHoldingTool_Shield_6
+  - first:
+      213: -922463219920577616
+    second: Character0_GetUpHoldingTool_Shield_7
+  - first:
+      213: -6229703108943085758
+    second: Character0_GetUpHoldingTool_Shield_8
+  - first:
+      213: -2823082933645270764
+    second: Character0_GetUpHoldingTool_Shield_9
+  - first:
+      213: -6915920663177530785
+    second: Character0_GetUpHoldingTool_Shield_10
+  - first:
+      213: -8330311662584137138
+    second: Character0_GetUpHoldingTool_Shield_11
+  - first:
+      213: -8060396891533277661
+    second: Character0_GetUpHoldingTool_Shield_12
+  - first:
+      213: 4237755194029918419
+    second: Character0_GetUpHoldingTool_Shield_13
+  - first:
+      213: -3127645220379696010
+    second: Character0_GetUpHoldingTool_Shield_14
+  - first:
+      213: 4884467567295934597
+    second: Character0_GetUpHoldingTool_Shield_15
+  - first:
+      213: 7557197685627692096
+    second: Character0_GetUpHoldingTool_Shield_16
+  - first:
+      213: -3231985497751620933
+    second: Character0_GetUpHoldingTool_Shield_17
+  - first:
+      213: 3469789866262533494
+    second: Character0_GetUpHoldingTool_Shield_18
+  - first:
+      213: 8381354608374961379
+    second: Character0_GetUpHoldingTool_Shield_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1855
+        width: 211
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4c85c1aad51e9f0800000000000000
+      internalID: -440968303304194826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1855
+        width: 229
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1b14c167d143f70800000000000000
+      internalID: 9165983534723215797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_2
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1861
+        width: 227
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eb2229a108089c0800000000000000
+      internalID: -3926998023457817059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1870
+        width: 222
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec473267f5da860800000000000000
+      internalID: 7542789911921086129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1411
+        width: 209
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abc21305162a8b60800000000000000
+      internalID: 7749047980532091810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1411
+        width: 207
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a654b2ecbb815bfe0800000000000000
+      internalID: -1174004932963252886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1400
+        width: 206
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb92a7ff5e6c577a0800000000000000
+      internalID: -6379974605964432962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_7
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1396
+        width: 187
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb5542c690c233f0800000000000000
+      internalID: -922463219920577616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 951
+        width: 196
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ffc4f5706ab89a0800000000000000
+      internalID: -6229703108943085758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 950
+        width: 189
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4112b98770562d8d0800000000000000
+      internalID: -2823082933645270764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_10
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 935
+        width: 185
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52f4888cc6b500a0800000000000000
+      internalID: -6915920663177530785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_11
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 935
+        width: 184
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4af063cda9c46c80800000000000000
+      internalID: -8330311662584137138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 491
+        width: 213
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3260f73abb7b32090800000000000000
+      internalID: -8060396891533277661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 471
+        width: 211
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8483975e78fca30800000000000000
+      internalID: 4237755194029918419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_14
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 478
+        width: 219
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674e1d73e3f5894d0800000000000000
+      internalID: -3127645220379696010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_15
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 479
+        width: 215
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58037999f5d19c340800000000000000
+      internalID: 4884467567295934597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 41
+        width: 211
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0442e3d514f80e860800000000000000
+      internalID: 7557197685627692096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 15
+        width: 229
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2fc47405ea523d0800000000000000
+      internalID: -3231985497751620933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_18
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 21
+        width: 227
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67514d7ef7b272030800000000000000
+      internalID: 3469789866262533494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_Shield_19
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 30
+        width: 222
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4d5c82c9d805470800000000000000
+      internalID: 8381354608374961379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_GetUpHoldingTool_Shield_0: -440968303304194826
+      Character0_GetUpHoldingTool_Shield_1: 9165983534723215797
+      Character0_GetUpHoldingTool_Shield_10: -6915920663177530785
+      Character0_GetUpHoldingTool_Shield_11: -8330311662584137138
+      Character0_GetUpHoldingTool_Shield_12: -8060396891533277661
+      Character0_GetUpHoldingTool_Shield_13: 4237755194029918419
+      Character0_GetUpHoldingTool_Shield_14: -3127645220379696010
+      Character0_GetUpHoldingTool_Shield_15: 4884467567295934597
+      Character0_GetUpHoldingTool_Shield_16: 7557197685627692096
+      Character0_GetUpHoldingTool_Shield_17: -3231985497751620933
+      Character0_GetUpHoldingTool_Shield_18: 3469789866262533494
+      Character0_GetUpHoldingTool_Shield_19: 8381354608374961379
+      Character0_GetUpHoldingTool_Shield_2: -3926998023457817059
+      Character0_GetUpHoldingTool_Shield_3: 7542789911921086129
+      Character0_GetUpHoldingTool_Shield_4: 7749047980532091810
+      Character0_GetUpHoldingTool_Shield_5: -1174004932963252886
+      Character0_GetUpHoldingTool_Shield_6: -6379974605964432962
+      Character0_GetUpHoldingTool_Shield_7: -922463219920577616
+      Character0_GetUpHoldingTool_Shield_8: -6229703108943085758
+      Character0_GetUpHoldingTool_Shield_9: -2823082933645270764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

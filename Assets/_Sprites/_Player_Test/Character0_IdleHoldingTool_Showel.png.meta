@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: d699a8993f81e494d89536477eb32f45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3256634374987060079
+    second: Character0_IdleHoldingTool_Showel_0
+  - first:
+      213: 5486064927731625127
+    second: Character0_IdleHoldingTool_Showel_1
+  - first:
+      213: -1333088693956915495
+    second: Character0_IdleHoldingTool_Showel_2
+  - first:
+      213: -6366689737506766062
+    second: Character0_IdleHoldingTool_Showel_3
+  - first:
+      213: -4393390399863851579
+    second: Character0_IdleHoldingTool_Showel_4
+  - first:
+      213: -4795942888190865623
+    second: Character0_IdleHoldingTool_Showel_5
+  - first:
+      213: 6715431494640280966
+    second: Character0_IdleHoldingTool_Showel_6
+  - first:
+      213: 2691130437487794526
+    second: Character0_IdleHoldingTool_Showel_7
+  - first:
+      213: -2546632228098615668
+    second: Character0_IdleHoldingTool_Showel_8
+  - first:
+      213: 4639145701093800725
+    second: Character0_IdleHoldingTool_Showel_9
+  - first:
+      213: -6924693609752591841
+    second: Character0_IdleHoldingTool_Showel_10
+  - first:
+      213: 5751348809405064178
+    second: Character0_IdleHoldingTool_Showel_11
+  - first:
+      213: 1086107828979802479
+    second: Character0_IdleHoldingTool_Showel_12
+  - first:
+      213: -2297927614166064017
+    second: Character0_IdleHoldingTool_Showel_13
+  - first:
+      213: 4425106401302316580
+    second: Character0_IdleHoldingTool_Showel_14
+  - first:
+      213: -8585443371339823626
+    second: Character0_IdleHoldingTool_Showel_15
+  - first:
+      213: 4758218913924625170
+    second: Character0_IdleHoldingTool_Showel_16
+  - first:
+      213: 536954925745068620
+    second: Character0_IdleHoldingTool_Showel_17
+  - first:
+      213: -9045652065023044480
+    second: Character0_IdleHoldingTool_Showel_18
+  - first:
+      213: -4776133585383388041
+    second: Character0_IdleHoldingTool_Showel_19
+  - first:
+      213: -848069693683113593
+    second: Character0_IdleHoldingTool_Showel_20
+  - first:
+      213: -8824003423273695609
+    second: Character0_IdleHoldingTool_Showel_21
+  - first:
+      213: -3354176438214520897
+    second: Character0_IdleHoldingTool_Showel_22
+  - first:
+      213: 838410785620905509
+    second: Character0_IdleHoldingTool_Showel_23
+  - first:
+      213: 7298493951692196224
+    second: Character0_IdleHoldingTool_Showel_24
+  - first:
+      213: -3982588073345446074
+    second: Character0_IdleHoldingTool_Showel_25
+  - first:
+      213: -4958333219571484139
+    second: Character0_IdleHoldingTool_Showel_26
+  - first:
+      213: 1020280902969822413
+    second: Character0_IdleHoldingTool_Showel_27
+  - first:
+      213: 2139272827152686177
+    second: Character0_IdleHoldingTool_Showel_28
+  - first:
+      213: -4116344124417175599
+    second: Character0_IdleHoldingTool_Showel_29
+  - first:
+      213: -7984894919054891562
+    second: Character0_IdleHoldingTool_Showel_30
+  - first:
+      213: 9024431004256572944
+    second: Character0_IdleHoldingTool_Showel_31
+  - first:
+      213: -7917053819104556350
+    second: Character0_IdleHoldingTool_Showel_32
+  - first:
+      213: -660191718536741009
+    second: Character0_IdleHoldingTool_Showel_33
+  - first:
+      213: 7012097864397067
+    second: Character0_IdleHoldingTool_Showel_34
+  - first:
+      213: 8342656762686736331
+    second: Character0_IdleHoldingTool_Showel_35
+  - first:
+      213: 4015733045029864561
+    second: Character0_IdleHoldingTool_Showel_36
+  - first:
+      213: 8962314396525491455
+    second: Character0_IdleHoldingTool_Showel_37
+  - first:
+      213: -4247376207955060328
+    second: Character0_IdleHoldingTool_Showel_38
+  - first:
+      213: 930152332580508906
+    second: Character0_IdleHoldingTool_Showel_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1870
+        width: 241
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ce1935a4c1ec2d0800000000000000
+      internalID: -3256634374987060079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1870
+        width: 241
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac2c204cfa622c40800000000000000
+      internalID: 5486064927731625127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_2
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1870
+        width: 241
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9decb9655eaef7de0800000000000000
+      internalID: -1333088693956915495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1870
+        width: 241
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c8c87a69f4a7a0800000000000000
+      internalID: -6366689737506766062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_4
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1870
+        width: 241
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f08065ba8703c0800000000000000
+      internalID: -4393390399863851579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_5
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 1870
+        width: 241
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f825a6a53617db0800000000000000
+      internalID: -4795942888190865623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_6
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1870
+        width: 241
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685218f4d51023d50800000000000000
+      internalID: 6715431494640280966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_7
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 1870
+        width: 241
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5993baefd0d85520800000000000000
+      internalID: 2691130437487794526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1396
+        width: 207
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86de9e2b7b88acd0800000000000000
+      internalID: -2546632228098615668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1396
+        width: 207
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bf9f69f6e816040800000000000000
+      internalID: 4639145701093800725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_10
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1396
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12874cb9db86ef90800000000000000
+      internalID: -6924693609752591841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_11
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1396
+        width: 207
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f364fb2545e0df40800000000000000
+      internalID: 5751348809405064178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_12
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1396
+        width: 207
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ac16e051a21f00800000000000000
+      internalID: 1086107828979802479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_13
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1396
+        width: 207
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f642216820f1c10e0800000000000000
+      internalID: -2297927614166064017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_14
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 1396
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4268ee6a3d2296d30800000000000000
+      internalID: 4425106401302316580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_15
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1396
+        width: 207
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5ce0ccdb06ad880800000000000000
+      internalID: -8585443371339823626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 935
+        width: 202
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213b50064e6980240800000000000000
+      internalID: 4758218913924625170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 935
+        width: 202
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a5e69f8a5a37700800000000000000
+      internalID: 536954925745068620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_18
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 935
+        width: 202
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084d58e6f53677280800000000000000
+      internalID: -9045652065023044480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_19
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 935
+        width: 202
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c09632fc3c7bdb0800000000000000
+      internalID: -4776133585383388041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_20
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 935
+        width: 202
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7816e3b5b1d0b34f0800000000000000
+      internalID: -848069693683113593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_21
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 935
+        width: 202
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786c0fa53a7da8580800000000000000
+      internalID: -8824003423273695609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_22
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 935
+        width: 202
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf0d36fc429371d0800000000000000
+      internalID: -3354176438214520897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_23
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 935
+        width: 202
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e4accda22a2ab00800000000000000
+      internalID: 838410785620905509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 479
+        width: 259
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08943f97495794560800000000000000
+      internalID: 7298493951692196224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 479
+        width: 259
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f89897f310bb8c0800000000000000
+      internalID: -3982588073345446074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_26
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 479
+        width: 259
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a3c690536703bb0800000000000000
+      internalID: -4958333219571484139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_27
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 479
+        width: 259
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc81a85314c82e00800000000000000
+      internalID: 1020280902969822413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_28
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 479
+        width: 259
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cd41c4d4930bd10800000000000000
+      internalID: 2139272827152686177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_29
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 479
+        width: 259
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df09d204decfd6c0800000000000000
+      internalID: -4116344124417175599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_30
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 479
+        width: 259
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d569ec7064ff2190800000000000000
+      internalID: -7984894919054891562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_31
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 479
+        width: 259
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0161cb45f283d3d70800000000000000
+      internalID: 9024431004256572944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 241
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca8f947f79f02290800000000000000
+      internalID: -7917053819104556350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_33
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 30
+        width: 241
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f76fc312786d6f0800000000000000
+      internalID: -660191718536741009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_34
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 30
+        width: 241
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0176524779e81000800000000000000
+      internalID: 7012097864397067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_35
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 30
+        width: 241
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc704f6df1217c370800000000000000
+      internalID: 8342656762686736331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_36
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 30
+        width: 241
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1748dcd9defbab730800000000000000
+      internalID: 4015733045029864561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_37
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 30
+        width: 241
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff475429579806c70800000000000000
+      internalID: 8962314396525491455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_38
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 30
+        width: 241
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8999469a7d94e05c0800000000000000
+      internalID: -4247376207955060328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_IdleHoldingTool_Showel_39
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 30
+        width: 241
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4567a4e9098ec00800000000000000
+      internalID: 930152332580508906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_IdleHoldingTool_Showel_0: -3256634374987060079
+      Character0_IdleHoldingTool_Showel_1: 5486064927731625127
+      Character0_IdleHoldingTool_Showel_10: -6924693609752591841
+      Character0_IdleHoldingTool_Showel_11: 5751348809405064178
+      Character0_IdleHoldingTool_Showel_12: 1086107828979802479
+      Character0_IdleHoldingTool_Showel_13: -2297927614166064017
+      Character0_IdleHoldingTool_Showel_14: 4425106401302316580
+      Character0_IdleHoldingTool_Showel_15: -8585443371339823626
+      Character0_IdleHoldingTool_Showel_16: 4758218913924625170
+      Character0_IdleHoldingTool_Showel_17: 536954925745068620
+      Character0_IdleHoldingTool_Showel_18: -9045652065023044480
+      Character0_IdleHoldingTool_Showel_19: -4776133585383388041
+      Character0_IdleHoldingTool_Showel_2: -1333088693956915495
+      Character0_IdleHoldingTool_Showel_20: -848069693683113593
+      Character0_IdleHoldingTool_Showel_21: -8824003423273695609
+      Character0_IdleHoldingTool_Showel_22: -3354176438214520897
+      Character0_IdleHoldingTool_Showel_23: 838410785620905509
+      Character0_IdleHoldingTool_Showel_24: 7298493951692196224
+      Character0_IdleHoldingTool_Showel_25: -3982588073345446074
+      Character0_IdleHoldingTool_Showel_26: -4958333219571484139
+      Character0_IdleHoldingTool_Showel_27: 1020280902969822413
+      Character0_IdleHoldingTool_Showel_28: 2139272827152686177
+      Character0_IdleHoldingTool_Showel_29: -4116344124417175599
+      Character0_IdleHoldingTool_Showel_3: -6366689737506766062
+      Character0_IdleHoldingTool_Showel_30: -7984894919054891562
+      Character0_IdleHoldingTool_Showel_31: 9024431004256572944
+      Character0_IdleHoldingTool_Showel_32: -7917053819104556350
+      Character0_IdleHoldingTool_Showel_33: -660191718536741009
+      Character0_IdleHoldingTool_Showel_34: 7012097864397067
+      Character0_IdleHoldingTool_Showel_35: 8342656762686736331
+      Character0_IdleHoldingTool_Showel_36: 4015733045029864561
+      Character0_IdleHoldingTool_Showel_37: 8962314396525491455
+      Character0_IdleHoldingTool_Showel_38: -4247376207955060328
+      Character0_IdleHoldingTool_Showel_39: 930152332580508906
+      Character0_IdleHoldingTool_Showel_4: -4393390399863851579
+      Character0_IdleHoldingTool_Showel_5: -4795942888190865623
+      Character0_IdleHoldingTool_Showel_6: 6715431494640280966
+      Character0_IdleHoldingTool_Showel_7: 2691130437487794526
+      Character0_IdleHoldingTool_Showel_8: -2546632228098615668
+      Character0_IdleHoldingTool_Showel_9: 4639145701093800725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d95a4bc1b12fc1c40aa12eacba47b01e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7690589281873716355
+    second: Character0_GetUpHoldingTool_WaterCan_0
+  - first:
+      213: 5699803161187439083
+    second: Character0_GetUpHoldingTool_WaterCan_1
+  - first:
+      213: -2923983124463594146
+    second: Character0_GetUpHoldingTool_WaterCan_2
+  - first:
+      213: 2794869205436706775
+    second: Character0_GetUpHoldingTool_WaterCan_3
+  - first:
+      213: -3902957335892534163
+    second: Character0_GetUpHoldingTool_WaterCan_4
+  - first:
+      213: 2851081005895772577
+    second: Character0_GetUpHoldingTool_WaterCan_5
+  - first:
+      213: -1337701664736435985
+    second: Character0_GetUpHoldingTool_WaterCan_6
+  - first:
+      213: -8224200300181708130
+    second: Character0_GetUpHoldingTool_WaterCan_7
+  - first:
+      213: 667509047853167547
+    second: Character0_GetUpHoldingTool_WaterCan_8
+  - first:
+      213: 1918084841150756702
+    second: Character0_GetUpHoldingTool_WaterCan_9
+  - first:
+      213: -7344148460654635163
+    second: Character0_GetUpHoldingTool_WaterCan_10
+  - first:
+      213: 7446840964160572535
+    second: Character0_GetUpHoldingTool_WaterCan_11
+  - first:
+      213: -4477991299867411846
+    second: Character0_GetUpHoldingTool_WaterCan_12
+  - first:
+      213: 7081658385982386728
+    second: Character0_GetUpHoldingTool_WaterCan_13
+  - first:
+      213: -5152714841953749809
+    second: Character0_GetUpHoldingTool_WaterCan_14
+  - first:
+      213: 8349441405487349892
+    second: Character0_GetUpHoldingTool_WaterCan_15
+  - first:
+      213: 6641534167991430334
+    second: Character0_GetUpHoldingTool_WaterCan_16
+  - first:
+      213: -7591667054396461209
+    second: Character0_GetUpHoldingTool_WaterCan_17
+  - first:
+      213: -438040325039437547
+    second: Character0_GetUpHoldingTool_WaterCan_18
+  - first:
+      213: 1437253700931444822
+    second: Character0_GetUpHoldingTool_WaterCan_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1855
+        width: 196
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b9d7c6bc9854590800000000000000
+      internalID: -7690589281873716355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1855
+        width: 219
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d938b6c4c91f40800000000000000
+      internalID: 5699803161187439083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_2
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1861
+        width: 220
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e555c1917dceb67d0800000000000000
+      internalID: -2923983124463594146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1870
+        width: 212
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfabb70cbe59c620800000000000000
+      internalID: 2794869205436706775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1402
+        width: 209
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cde945bf8e5d9c0800000000000000
+      internalID: -3902957335892534163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1403
+        width: 207
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9e746b113119720800000000000000
+      internalID: 2851081005895772577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1400
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0afe16c678f6de0800000000000000
+      internalID: -1337701664736435985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_7
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1396
+        width: 187
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9222029665cddd80800000000000000
+      internalID: -8224200300181708130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 945
+        width: 222
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3b5a141f7734900800000000000000
+      internalID: 667509047853167547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_9
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 950
+        width: 220
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e573ad520086e9a10800000000000000
+      internalID: 1918084841150756702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_10
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 935
+        width: 205
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d2f0d2e7541a90800000000000000
+      internalID: -7344148460654635163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_11
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 935
+        width: 223
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c4e9fd66e785760800000000000000
+      internalID: 7446840964160572535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 491
+        width: 249
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7afc1063aafad1c0800000000000000
+      internalID: -4477991299867411846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 491
+        width: 247
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822752528ca174260800000000000000
+      internalID: 7081658385982386728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 478
+        width: 254
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b678c621ed78b0800000000000000
+      internalID: -5152714841953749809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_15
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 479
+        width: 251
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480030798bc2fd370800000000000000
+      internalID: 8349441405487349892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 41
+        width: 196
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcafbe23287b2c50800000000000000
+      internalID: 6641534167991430334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 15
+        width: 219
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fa9a1590bf4a690800000000000000
+      internalID: -7591667054396461209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_18
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 21
+        width: 220
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5194abc25a4cbe9f0800000000000000
+      internalID: -438040325039437547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_GetUpHoldingTool_WaterCan_19
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 30
+        width: 212
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650622840a622f310800000000000000
+      internalID: 1437253700931444822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_GetUpHoldingTool_WaterCan_0: -7690589281873716355
+      Character0_GetUpHoldingTool_WaterCan_1: 5699803161187439083
+      Character0_GetUpHoldingTool_WaterCan_10: -7344148460654635163
+      Character0_GetUpHoldingTool_WaterCan_11: 7446840964160572535
+      Character0_GetUpHoldingTool_WaterCan_12: -4477991299867411846
+      Character0_GetUpHoldingTool_WaterCan_13: 7081658385982386728
+      Character0_GetUpHoldingTool_WaterCan_14: -5152714841953749809
+      Character0_GetUpHoldingTool_WaterCan_15: 8349441405487349892
+      Character0_GetUpHoldingTool_WaterCan_16: 6641534167991430334
+      Character0_GetUpHoldingTool_WaterCan_17: -7591667054396461209
+      Character0_GetUpHoldingTool_WaterCan_18: -438040325039437547
+      Character0_GetUpHoldingTool_WaterCan_19: 1437253700931444822
+      Character0_GetUpHoldingTool_WaterCan_2: -2923983124463594146
+      Character0_GetUpHoldingTool_WaterCan_3: 2794869205436706775
+      Character0_GetUpHoldingTool_WaterCan_4: -3902957335892534163
+      Character0_GetUpHoldingTool_WaterCan_5: 2851081005895772577
+      Character0_GetUpHoldingTool_WaterCan_6: -1337701664736435985
+      Character0_GetUpHoldingTool_WaterCan_7: -8224200300181708130
+      Character0_GetUpHoldingTool_WaterCan_8: 667509047853167547
+      Character0_GetUpHoldingTool_WaterCan_9: 1918084841150756702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

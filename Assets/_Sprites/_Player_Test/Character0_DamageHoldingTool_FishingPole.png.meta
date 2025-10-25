@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: b43e293205f1adb41b1b66cc505eba2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3666278789113657181
+    second: Character0_DamageHoldingTool_FishingPole_0
+  - first:
+      213: -8762868025981618187
+    second: Character0_DamageHoldingTool_FishingPole_1
+  - first:
+      213: -5984053508162854684
+    second: Character0_DamageHoldingTool_FishingPole_2
+  - first:
+      213: 8325108984470390833
+    second: Character0_DamageHoldingTool_FishingPole_3
+  - first:
+      213: 8675041593764064886
+    second: Character0_DamageHoldingTool_FishingPole_4
+  - first:
+      213: 4975653673821995302
+    second: Character0_DamageHoldingTool_FishingPole_5
+  - first:
+      213: -1641618751548534826
+    second: Character0_DamageHoldingTool_FishingPole_6
+  - first:
+      213: 7241915755938394381
+    second: Character0_DamageHoldingTool_FishingPole_7
+  - first:
+      213: 4200052077693840102
+    second: Character0_DamageHoldingTool_FishingPole_8
+  - first:
+      213: -6700284646941258451
+    second: Character0_DamageHoldingTool_FishingPole_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1871
+        width: 264
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8c457bdd2ce1dc0800000000000000
+      internalID: -3666278789113657181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1871
+        width: 251
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7bcb145f9046680800000000000000
+      internalID: -8762868025981618187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1397
+        width: 231
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0e5090a0f54fca0800000000000000
+      internalID: -5984053508162854684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1395
+        width: 219
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13845c7538ab88370800000000000000
+      internalID: 8325108984470390833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 937
+        width: 213
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eab000e50f36870800000000000000
+      internalID: 8675041593764064886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 935
+        width: 243
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621078977a21d0540800000000000000
+      internalID: 4975653673821995302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 477
+        width: 274
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df4451717cc739e0800000000000000
+      internalID: -1641618751548534826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 479
+        width: 270
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01330eb204708460800000000000000
+      internalID: 7241915755938394381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 31
+        width: 264
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea2511ac15994a30800000000000000
+      internalID: 4200052077693840102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_DamageHoldingTool_FishingPole_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 31
+        width: 251
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d001dfc9ec303a0800000000000000
+      internalID: -6700284646941258451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_DamageHoldingTool_FishingPole_0: -3666278789113657181
+      Character0_DamageHoldingTool_FishingPole_1: -8762868025981618187
+      Character0_DamageHoldingTool_FishingPole_2: -5984053508162854684
+      Character0_DamageHoldingTool_FishingPole_3: 8325108984470390833
+      Character0_DamageHoldingTool_FishingPole_4: 8675041593764064886
+      Character0_DamageHoldingTool_FishingPole_5: 4975653673821995302
+      Character0_DamageHoldingTool_FishingPole_6: -1641618751548534826
+      Character0_DamageHoldingTool_FishingPole_7: 7241915755938394381
+      Character0_DamageHoldingTool_FishingPole_8: 4200052077693840102
+      Character0_DamageHoldingTool_FishingPole_9: -6700284646941258451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

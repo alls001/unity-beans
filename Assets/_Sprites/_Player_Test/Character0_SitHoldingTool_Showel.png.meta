@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 58177a5284b4f7a46aaf42235f1e769b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3406819442031383185
+    second: Character0_SitHoldingTool_Showel_0
+  - first:
+      213: -633658644265548342
+    second: Character0_SitHoldingTool_Showel_1
+  - first:
+      213: -6950370086395114995
+    second: Character0_SitHoldingTool_Showel_2
+  - first:
+      213: -8167846466337146921
+    second: Character0_SitHoldingTool_Showel_3
+  - first:
+      213: 3658265480170655562
+    second: Character0_SitHoldingTool_Showel_4
+  - first:
+      213: -814730384633966091
+    second: Character0_SitHoldingTool_Showel_5
+  - first:
+      213: 8851022100623368990
+    second: Character0_SitHoldingTool_Showel_6
+  - first:
+      213: -4337707657727197199
+    second: Character0_SitHoldingTool_Showel_7
+  - first:
+      213: -1344259290724560086
+    second: Character0_SitHoldingTool_Showel_8
+  - first:
+      213: 903545815344533014
+    second: Character0_SitHoldingTool_Showel_9
+  - first:
+      213: -6662388633281031700
+    second: Character0_SitHoldingTool_Showel_10
+  - first:
+      213: 2075901990676769026
+    second: Character0_SitHoldingTool_Showel_11
+  - first:
+      213: -3118278443179766699
+    second: Character0_SitHoldingTool_Showel_12
+  - first:
+      213: -8701263156972786515
+    second: Character0_SitHoldingTool_Showel_13
+  - first:
+      213: -5560916990614539686
+    second: Character0_SitHoldingTool_Showel_14
+  - first:
+      213: 6084434956763402612
+    second: Character0_SitHoldingTool_Showel_15
+  - first:
+      213: 3685923918117887068
+    second: Character0_SitHoldingTool_Showel_16
+  - first:
+      213: 2808004685010307941
+    second: Character0_SitHoldingTool_Showel_17
+  - first:
+      213: 5954234600549553185
+    second: Character0_SitHoldingTool_Showel_18
+  - first:
+      213: 517287607283440535
+    second: Character0_SitHoldingTool_Showel_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1870
+        width: 241
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192dc208b34774f20800000000000000
+      internalID: 3406819442031383185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1870
+        width: 256
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac542bff1dac437f0800000000000000
+      internalID: -633658644265548342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_2
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1863
+        width: 266
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a0be62b335b8f90800000000000000
+      internalID: -6950370086395114995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_3
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1855
+        width: 224
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d77b0af9eaf5ae80800000000000000
+      internalID: -8167846466337146921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1396
+        width: 207
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f45a76215c4c230800000000000000
+      internalID: 3658265480170655562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1396
+        width: 219
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1dc24280f71b4f0800000000000000
+      internalID: -814730384633966091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_6
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1401
+        width: 222
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13a9cea4b525da70800000000000000
+      internalID: 8851022100623368990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_7
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1395
+        width: 222
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffbda11edd5dc3c0800000000000000
+      internalID: -4337707657727197199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 935
+        width: 210
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23185a1c4b385de0800000000000000
+      internalID: -1344259290724560086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 935
+        width: 185
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ec6e1c12a0a8c00800000000000000
+      internalID: 903545815344533014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 944
+        width: 184
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce11fad36d07a83a0800000000000000
+      internalID: -6662388633281031700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_11
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 935
+        width: 202
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a0d6acd51fcc10800000000000000
+      internalID: 2075901990676769026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 479
+        width: 259
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c038bf646a9b4d0800000000000000
+      internalID: -3118278443179766699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_13
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 479
+        width: 264
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac617f8247ee3780800000000000000
+      internalID: -8701263156972786515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_14
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 489
+        width: 268
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a527cf4c577a3d2b0800000000000000
+      internalID: -5560916990614539686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_15
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 491
+        width: 256
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4711ad04b51407450800000000000000
+      internalID: 6084434956763402612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 241
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c58805648072330800000000000000
+      internalID: 3685923918117887068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 30
+        width: 256
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b0ca1326908f620800000000000000
+      internalID: 2808004685010307941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_18
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 23
+        width: 266
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124981382d0b1a250800000000000000
+      internalID: 5954234600549553185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character0_SitHoldingTool_Showel_19
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 41
+        width: 196
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b57de8656cd2700800000000000000
+      internalID: 517287607283440535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character0_SitHoldingTool_Showel_0: 3406819442031383185
+      Character0_SitHoldingTool_Showel_1: -633658644265548342
+      Character0_SitHoldingTool_Showel_10: -6662388633281031700
+      Character0_SitHoldingTool_Showel_11: 2075901990676769026
+      Character0_SitHoldingTool_Showel_12: -3118278443179766699
+      Character0_SitHoldingTool_Showel_13: -8701263156972786515
+      Character0_SitHoldingTool_Showel_14: -5560916990614539686
+      Character0_SitHoldingTool_Showel_15: 6084434956763402612
+      Character0_SitHoldingTool_Showel_16: 3685923918117887068
+      Character0_SitHoldingTool_Showel_17: 2808004685010307941
+      Character0_SitHoldingTool_Showel_18: 5954234600549553185
+      Character0_SitHoldingTool_Showel_19: 517287607283440535
+      Character0_SitHoldingTool_Showel_2: -6950370086395114995
+      Character0_SitHoldingTool_Showel_3: -8167846466337146921
+      Character0_SitHoldingTool_Showel_4: 3658265480170655562
+      Character0_SitHoldingTool_Showel_5: -814730384633966091
+      Character0_SitHoldingTool_Showel_6: 8851022100623368990
+      Character0_SitHoldingTool_Showel_7: -4337707657727197199
+      Character0_SitHoldingTool_Showel_8: -1344259290724560086
+      Character0_SitHoldingTool_Showel_9: 903545815344533014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
