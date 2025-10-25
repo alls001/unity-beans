@@ -189,7 +189,7 @@ MonoBehaviour:
   patrolPoints: []
   patrolWaitTime: 2
   patrolPointThreshold: 0.6
-  attackDamage: 2
+  attackDamage: 1
   attackRate: 1.5
   attackPoint: {fileID: 1671330213670049092}
   attackRange: 3

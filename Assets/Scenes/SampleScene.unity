@@ -1340,6 +1340,10 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 4142028844760421580, guid: 650cfb4939334464c9cd740c0d7d726a, type: 3}
+      propertyPath: m_Constraints
+      value: 112
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142028844760421580, guid: 650cfb4939334464c9cd740c0d7d726a, type: 3}
       propertyPath: m_AngularDamping
       value: 1
       objectReference: {fileID: 0}
@@ -1520,6 +1524,10 @@ PrefabInstance:
     - target: {fileID: 2775611680908863738, guid: 53c3c08d32829e34e9c8e944ebb26ba7, type: 3}
       propertyPath: m_Name
       value: Enemy (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6155651506409259886, guid: 53c3c08d32829e34e9c8e944ebb26ba7, type: 3}
+      propertyPath: attackDamage
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6155651506409259886, guid: 53c3c08d32829e34e9c8e944ebb26ba7, type: 3}
       propertyPath: stoppingDistance
