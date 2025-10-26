@@ -1,5 +1,3 @@
-// PlayerController3D.cs (CORRIGIDO: Sprint Parado, Bloqueio de Ações no Ataque)
-
 using UnityEngine;
 using System.Collections;
 
@@ -17,7 +15,7 @@ public class PlayerController3D : MonoBehaviour
     [Range(0.1f, 3f)] public float attackRange = 1f;
     public float attackDamage = 2.5f;
     public LayerMask enemyLayer;
-    public float attackAnimationDuration = 0.5f; 
+    public float attackAnimationDuration = 0.5f;
 
     // Componentes
     private Rigidbody rb;
@@ -25,10 +23,11 @@ public class PlayerController3D : MonoBehaviour
     private SpriteRenderer spriteRenderer;
 
     // Estado interno
-    private Vector2 input;
+    private Vector2 rawInput;            // -1,0,1 input cru
+    private Vector2 moveInput;           // input processado (normalizado se necessário)
     private bool canSprint = true;
     private bool isSprinting = false;
-    private bool isAttacking = false; 
+    private bool isAttacking = false;
     private float lastNonZeroHorizontal = 1f;
 
     void Start()
@@ -36,66 +35,69 @@ public class PlayerController3D : MonoBehaviour
         rb = GetComponent<Rigidbody>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
         if (attackPoint == null) Debug.LogError("PlayerController3D: AttackPoint não atribuído!");
+
+        // Trava rotações físicas (evita girar ao colidir)
+        rb.constraints = RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezeRotationZ;
     }
 
     void Update()
     {
-        // Só permite input e ações se NÃO estiver atacando
-        if (!isAttacking)
-        {
-            HandleMovementInput();
-            HandleSprintInput();
-            HandleAttackInput();
-        }
-        // O Flip pode acontecer mesmo atacando para virar na direção certa
+        // Coleta e processa input (apenas leitura em Update)
+        HandleMovementInput();
+        HandleSprintInput();
+        HandleAttackInput();
+
+        // Flip do sprite (visual) - permitido mesmo durante ataque para manter a direção
         HandleFlip();
-        UpdateAnimator(); // Atualiza o animator com os estados atuais
+
+        // Atualiza parâmetros do animator com base em moveInput (consistente com a física)
+        UpdateAnimator();
     }
 
     void HandleMovementInput()
     {
-        if (!isSprinting) // Só pega input de movimento se não estiver sprintando
-        {
-            input.x = Input.GetAxisRaw("Horizontal");
-            input.y = Input.GetAxisRaw("Vertical");
-        }
-        else
-        {
-            input = Vector2.zero; // Zera input durante sprint
-        }
+        // Pegamos input cru independente de estar sprintando; a aplicação do movimento é bloqueada se isSprinting/isAttacking
+        rawInput.x = Input.GetAxisRaw("Horizontal"); // -1, 0, 1
+        rawInput.y = Input.GetAxisRaw("Vertical");   // -1, 0, 1
+
+        // Processamento: normaliza para evitar magnitude>1 em diagonais
+        moveInput = rawInput;
+        if (moveInput.sqrMagnitude > 1f)
+            moveInput.Normalize();
     }
 
-     void HandleSprintInput()
+    void HandleSprintInput()
     {
-        // Removemos a checagem 'input.sqrMagnitude > 0.01f'
-        if ((Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyDown(KeyCode.Space)) && canSprint)
+        // Apenas inicia sprint se permitido e não estivermos atacando
+        if ((Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyDown(KeyCode.Space)) && canSprint && !isAttacking)
         {
             StartCoroutine(SprintDash());
         }
     }
 
-     void HandleAttackInput()
+    void HandleAttackInput()
     {
-        // Ação de Ataque (só se não estiver sprintando)
-        if (Input.GetButtonDown("Fire1") && !isSprinting)
+        // Só inicia ataque se não estivermos sprintando e não estivermos já atacando
+        if (Input.GetButtonDown("Fire1") && !isSprinting && !isAttacking)
         {
-            StartCoroutine(AttackSequence()); // --- MUDANÇA: Inicia a sequência de ataque
+            StartCoroutine(AttackSequence());
         }
     }
 
-
     void HandleFlip()
     {
-        // Atualiza a direção apenas se houver input horizontal E não estiver atacando/sprintando
-        if (Mathf.Abs(input.x) > 0.01f && !isSprinting && !isAttacking)
+        // Atualiza a direção apenas se houver input horizontal
+        if (Mathf.Abs(rawInput.x) > 0.01f)
         {
-            lastNonZeroHorizontal = input.x;
-            spriteRenderer.flipX = (input.x < 0);
+            lastNonZeroHorizontal = rawInput.x;
+            spriteRenderer.flipX = (rawInput.x < 0);
         }
-        else // Mantém a última direção se parado, movendo vertical, sprintando ou atacando
+        else
         {
-             spriteRenderer.flipX = (lastNonZeroHorizontal < 0);
+            // Mantém última direção conhecida quando parado/vertical
+            spriteRenderer.flipX = (lastNonZeroHorizontal < 0);
         }
     }
 
@@ -105,98 +107,102 @@ public class PlayerController3D : MonoBehaviour
         isSprinting = true;
         animator.SetBool("IsSprinting", true);
 
-        Vector3 dashDirection = new Vector3(input.x, 0f, input.y).normalized;
-        if (dashDirection == Vector3.zero) // Usa última direção se parado
-        {
-             dashDirection = new Vector3(lastNonZeroHorizontal > 0 ? 1 : -1, 0, 0);
-        }
+        // Usa a direção atual (se zero, usa última horizontal)
+        Vector3 dashDir = new Vector3(moveInput.x, 0f, moveInput.y);
+        if (dashDir.sqrMagnitude < 0.001f)
+            dashDir = new Vector3(lastNonZeroHorizontal > 0 ? 1f : -1f, 0f, 0f);
 
-        // Para momentaneamente antes de aplicar força (opcional, dá mais "peso")
-        rb.linearVelocity = new Vector3(0, rb.linearVelocity.y, 0);
-        // Aplica a velocidade do dash
-        rb.linearVelocity = new Vector3(dashDirection.x * sprintForce, rb.linearVelocity.y, dashDirection.z * sprintForce);
+        dashDir.Normalize();
 
+        // Aplica velocidade instantânea (substitui velocity)
+        Vector3 newVel = new Vector3(dashDir.x * sprintForce, rb.linearVelocity.y, dashDir.z * sprintForce);
+        rb.linearVelocity = newVel;
 
         yield return new WaitForSeconds(sprintDuration);
 
+        // Para o dash (mantém Y)
+        rb.linearVelocity = new Vector3(0f, rb.linearVelocity.y, 0f);
+
         isSprinting = false;
         animator.SetBool("IsSprinting", false);
-
-        // Zera velocidade horizontal pós-dash para parada mais brusca (opcional)
-        rb.linearVelocity = new Vector3(0, rb.linearVelocity.y, 0);
 
         yield return new WaitForSeconds(sprintCooldown);
         canSprint = true;
     }
 
-
     void FixedUpdate()
     {
-        // Só aplica movimento normal se NÃO estiver sprintando OU atacando
+        // Aplica movimento físico apenas se não estiver sprintando nem atacando
         if (!isSprinting && !isAttacking)
         {
             MoveCharacter();
         }
-        // Se estiver atacando, força a parada horizontal
         else if (isAttacking)
         {
-             rb.linearVelocity = new Vector3(0, rb.linearVelocity.y, 0);
+            // Durante ataque, bloqueia movimento horizontal mantendo Y intacto
+            rb.linearVelocity = new Vector3(0f, rb.linearVelocity.y, 0f);
         }
+        // se isSprinting: já foi tratado no SprintDash aplicando velocity diretamente
     }
 
     void UpdateAnimator()
     {
-        // Se estiver atacando ou sprintando, força Speed=0 para animações Idle/Walk não tocarem
-        float effectiveSpeed = (isAttacking || isSprinting) ? 0f : input.sqrMagnitude;
+        if (animator == null) return;
 
-        animator.SetFloat("Horizontal", Mathf.Abs(input.x));
-        animator.SetFloat("Vertical", input.y);
-        animator.SetFloat("Speed", effectiveSpeed); // Usa a velocidade efetiva
+        // Speed: magnitude real (0..1) com clamp
+        float speed = Mathf.Clamp01(moveInput.magnitude);
+        // Caso esteja atacando ou sprintando, force Speed = 0 para que blend tree vá para Idle/Attack
+        float effectiveSpeed = (isAttacking || isSprinting) ? 0f : speed;
+
+        // Horizontal no BlendTree: usamos ABS para manter apenas valores positivos (BlendTree com sprites à direita)
+        animator.SetFloat("Horizontal", Mathf.Abs(moveInput.x));
+
+        // Vertical: dependendo do seu BlendTree pode ser necessário inverter (-moveInput.y).
+        // Se seus sprites consideram +Y = cima, deixe como abaixo. Se estavam invertidos, use -moveInput.y.
+        animator.SetFloat("Vertical", moveInput.y); // ou animator.SetFloat("Vertical", -moveInput.y);
+
+        animator.SetFloat("Speed", effectiveSpeed);
     }
 
     void MoveCharacter()
     {
-        Vector3 targetVelocity = new Vector3(input.x, 0f, input.y).normalized * moveSpeed;
-        targetVelocity.y = rb.linearVelocity.y;
-        rb.linearVelocity = targetVelocity;
+        // Aplica velocidade baseada em moveInput processado
+        Vector3 target = new Vector3(moveInput.x, 0f, moveInput.y) * moveSpeed;
+        // Preserva componente y atual (gravidade)
+        target.y = rb.linearVelocity.y;
+        rb.linearVelocity = target;
     }
 
     IEnumerator AttackSequence()
     {
-        isAttacking = true; // Bloqueia outras ações
-        animator.SetTrigger("Attack"); // Dispara a animação
+        isAttacking = true;
+        animator.SetTrigger("Attack");
 
-        // Espera um pequeno delay para a animação começar
-        yield return new WaitForSeconds(0.1f); 
+        // Opcional: esperar até o frame de hit via AnimationEvent é melhor, mas esse delay funciona
+        yield return new WaitForSeconds(0.1f);
 
-        // Realiza a detecção de dano 
         PerformDamageCheck();
 
+        // Aguarda o tempo definido pra duração da animação de ataque
         yield return new WaitForSeconds(attackAnimationDuration);
 
-        isAttacking = false; 
+        isAttacking = false;
     }
 
-    // Função separada para checar o dano
     void PerformDamageCheck()
     {
         if (attackPoint == null) return;
 
-        Collider[] hitEnemies = Physics.OverlapSphere(attackPoint.position, attackRange, enemyLayer);
-        foreach (Collider enemyCollider in hitEnemies)
+        Collider[] hit = Physics.OverlapSphere(attackPoint.position, attackRange, enemyLayer);
+        foreach (Collider c in hit)
         {
-            HealthSystem enemyHealth = enemyCollider.GetComponent<HealthSystem>();
-            if (enemyHealth != null)
-            {
-                enemyHealth.TakeDamage(attackDamage);
-            }
+            HealthSystem hs = c.GetComponent<HealthSystem>();
+            if (hs != null) hs.TakeDamage(attackDamage);
         }
     }
 
-
     void OnDrawGizmosSelected()
     {
-
         if (attackPoint == null) return;
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
